@@ -1,3 +1,10 @@
+## How can i run this project?
+
+    docker-compose up
+You need to create a selenium project with RemoteWebDriver
+
+    driver = new RemoteWebDriver(new URL("http://localhost:4446/wd/hub"),optionsF);
+
 
 # In High level
 
@@ -45,7 +52,8 @@ Variables and moving a composition between environments
 Selenium-Grid allows you run your tests on different machines against different browsers in parallel. That is, running multiple tests at the same time against different machines running different browsers and operating systems. Essentially, Selenium-Grid support distributed test execution. It allows for running your tests in a distributed test execution environment
 
 
-# References 
+
+## References 
 
 [1] https://github.com/SeleniumHQ/docker-selenium
 

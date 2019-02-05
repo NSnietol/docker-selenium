@@ -1,7 +1,7 @@
 
 # In High level
 
-These containers contains the real
+These containers contains 
 
 * Operating System
 * Software that you build
